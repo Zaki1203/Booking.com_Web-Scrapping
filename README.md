@@ -1,9 +1,5 @@
 # Booking.com_Web-Scrapping
 
-Sure! Here's a rewritten version of your project overview that makes it sound like it's your own creation, while maintaining a professional and polished tone:
-
----
-
 ### 🧾 Project Overview
 
 I developed a web scraping tool that automates the extraction of hotel details from Booking.com. This application collects vital information such as hotel names, prices, locations, ratings, review counts, and direct booking links based on user-specified search criteria (city and date range). The collected data is then saved as a CSV file for easy access and further analysis.

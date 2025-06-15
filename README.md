@@ -43,4 +43,3 @@ I developed a web scraping tool that automates the extraction of hotel details f
 
 ---
 
-Let me know if you’d like a version for your resume or portfolio as well!

@@ -18,7 +18,7 @@ I developed a web scraping tool that automates the extraction of hotel details f
 
 ### 🔧 Tools & Technologies
 
-* **Python 3.x**
+* **Jupyter Notebook**
 * **BeautifulSoup4** – For parsing and navigating HTML content.
 * **Requests** – To send HTTP requests to Booking.com.
 * **CSV** – For saving extracted data in a tabular format.
